@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:oneshot="true">
+    
+    <item 
+        android:drawable="@drawable/cball"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball2"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball3"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball4"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball5"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball6"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball7"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball8"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball9"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball9"
+        android:duration="41" />
+        
+    <item 
+        android:drawable="@drawable/cball10"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball11"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball12"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball13"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball14"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball15"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball16"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball17"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball18_1"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball19"
+        android:duration="41" />
+        <item 
+        android:drawable="@drawable/cball20"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball21"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball22"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball23"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball24"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball25"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball26"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball27"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball28"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball29_1"
+        android:duration="41" />
+        <item 
+        android:drawable="@drawable/cball28"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball27"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball26"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball25"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball24"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball23"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball22"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball21"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball20"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball19"
+        android:duration="41" />
+     <item 
+        android:drawable="@drawable/cball18_1"
+        android:duration="41" />
+    <item 
+        android:drawable="@drawable/cball"
+        android:duration="10" />
+
+</animation-list>
